@@ -1,4 +1,4 @@
-# CSerialIO_VS2022 This is a Visual C++ Project originally created by tojine on Code Project.
+# CSerialIO_VS2022 - a Visual C++ Project originally created by tojine on Code Project.
 
 According to the author:
 
@@ -15,8 +15,8 @@ Instead it was stuck at default 115200 baud.
 
 I fixed this bug and substituted a CEdit box instead of a List box to dsiplay incoming text.
 The incoming text is read in and stored in a buffer until a carriage return is received,
-at which point it is displayed in the CEdit box.
+at which point it is displayed in the CEdit box. 
 
-I found the List box approach to be less useful than a CEdit box.
+I compiled this using Visual Studio 2022, the free version.
 
 I hope you find this useful - Jim
