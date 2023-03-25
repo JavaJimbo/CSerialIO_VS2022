@@ -1,4 +1,4 @@
-# CSerialIO_VS2022 This is a Visual C++ Project originally cretaed by tojine on Code Project.
+# CSerialIO_VS2022 This is a Visual C++ Project originally created by tojine on Code Project.
 
 Link: https://www.codeproject.com/Articles/99375/CSerialIO-A-Useful-and-Simple-Serial-Communication
 
