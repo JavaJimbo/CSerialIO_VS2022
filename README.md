@@ -1,6 +1,9 @@
 # CSerialIO_VS2022 This is a Visual C++ Project originally cretaed by tojine on Code Project.
+
 Link: https://www.codeproject.com/Articles/99375/CSerialIO-A-Useful-and-Simple-Serial-Communication
+
 Download: Demo version
+
 This implements two way serial communication which allows user to select baud rate and com port.
 There appears to be a bug in the demo: the user selected baud rate wasn't being used.
 Instead it was stuck at default 115200 baud.
